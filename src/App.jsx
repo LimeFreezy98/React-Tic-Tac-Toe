@@ -1,4 +1,3 @@
-
 export default function Board() {
     return (
         <>
@@ -20,3 +19,8 @@ export default function Board() {
         </>
     );
   }
+  
+  
+  
+  
+  
